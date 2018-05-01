@@ -1,0 +1,6 @@
+name: Machines
+version: 1.0.0
+author: Nelbrenn
+description: Builds machines!
+main: me.nelbrenn.machines.Machines
+depend: [Vault, WorldGuard]
